@@ -9,7 +9,7 @@
       <p><b>Address：Wangjiang Campus, Sichuan University, Wuhou Chengdu, Sichuan Province PRC</b></p >
     </td>
     <td width="25%">
-      < img src="photo.png" width="100%">
+      <img src="photo.png" width="100%">
     </td>
   </tr>
 </table>
