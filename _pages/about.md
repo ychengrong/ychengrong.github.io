@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Chengrong Yu, Ph.D. in Engineering, currently serves as an Assistant Researcher at the School of Software, Yunnan University, is member of the Chinese Association for Artificial Intelligence (CAAI), the China Computer Federation (CCF), and the Sichuan Association for Artificial Intelligence. He received his Ph.D. in Computer Science and Technology from Sichuan University in 2024, where he was advised by Professor Yi Zhang（章毅教授）, an IEEE Fellow. He has contributed to several major research initiatives, including the Ministry of Science and Technology’s “New Generation Artificial Intelligence” 2030 Major Project and General Programmes of the National Natural Science Foundation of China. Over the past five years, he has published more than 10 papers in peer-reviewed journals such as Knowledge-Based Systems, Neurocomputing, and the International Journal of Neural Systems, holds five authorized invention patents, and serves as a reviewer for leading international conferences including CVPR and NeurIPS.
-
-My research interest focuses on intelligent medicine, with particular emphasis on multimodal medical image analysis and intelligent radiotherapy planning. I have published more than 10  SCI papers (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>).
+    Chengrong Yu, Ph.D. in Engineering, currently serves as an Assistant Researcher at the School of Software, Yunnan University, is member of the Chinese Association for Artificial Intelligence (CAAI), and the China Computer Federation (CCF).  I received my Ph.D. from Sichuan University under the supervision of Professor Zhang Yi (章毅 教授).
+    My research interests are centered on artificial intelligence and its applications in the medical field, with particular emphasis on multimodal medical image analysis and intelligent radiotherapy planning. To date, I have published more than 10 papers in peer-reviewed journals such as Knowledge-Based Systems, Neurocomputing, and the International Journal of Neural Systems, holds five authorized invention patents, and serves as a reviewer for leading international conferences including CVPR and NeurIPS.
+   More information about my research <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>Google Scholar</a>, or don’t hesitate to contact me via email at <a href='yuchengrong@yun.edu.cn'>yuchengrong@yun.edu.cn</a>.
 
 
 # 🔥 News
