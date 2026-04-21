@@ -17,14 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Chengrong Yu, Ph.D. in Engineering, currently serves as an Assistant Researcher at the School of Software, Yunnan University, is member of the Chinese Association for Artificial Intelligence (CAAI), the China Computer Federation (CCF), and the Sichuan Association for Artificial Intelligence. He received his Ph.D. in Computer Science and Technology from Sichuan University in 2024, where he was advised by Professor Yi Zhang（章毅教授）, an IEEE Fellow. He has contributed to several major research initiatives, including the Ministry of Science and Technology’s “New Generation Artificial Intelligence” 2030 Major Project and General Programmes of the National Natural Science Foundation of China. Over the past five years, he has published more than 10 papers in peer-reviewed journals such as Knowledge-Based Systems, Neurocomputing, and the International Journal of Neural Systems, holds five authorized invention patents, and serves as a reviewer for leading international conferences including CVPR and NeurIPS.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest focuses on intelligent medicine, with particular emphasis on multimodal medical image analysis and intelligent radiotherapy planning. I have published more than 10  SCI papers (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09*: &nbsp;🎉🎉 Enrolled in the School of Software, Yunnan University🎓. Custom makes all things easy！
 
 # 📝 Publications 
 
