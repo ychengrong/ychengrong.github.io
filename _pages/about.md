@@ -34,6 +34,11 @@ redirect_from:
 
 **Chengrong Yu**, Zhonglian Wei, Yuncheng Shen, Yingyong Yin, Zhang Yi, Ying Song, Guangjun Li, Junjie Hu
 
+
+# 📖 Educations
+- *2019.09 - 2024.12*, Sichuan University. Ph.D. in Computer Science and Technology. 
+- *2016.09 - 2019.12*, Kunming University of Science and Technology. M.S. in Computer System Architecture. 
+- *2012.09 - 2016.12*, Nanchang University. B.S. in Software Engineering. 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
@@ -45,10 +50,7 @@ redirect_from:
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📖 Educations
-- *2019.09 - 2024.12*, Sichuan University. Ph.D. in Computer Science and Technology. 
-- *2016.09 - 2019.12*, Kunming University of Science and Technology. M.S. in Computer System Architecture. 
-- *2012.09 - 2016.12*, Nanchang University. B.S. in Software Engineering. 
+
 
 
 <!-- # 💬 Invited Talks
