@@ -26,11 +26,12 @@ redirect_from:
 - *2025.09*: &nbsp;🎉🎉 Enrolled in the School of Software, Yunnan University🎓. Custom makes all things easy！
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Neural Systems</div><img src='../images/DRL_2026IJNS.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1"></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Neural Systems</div><img src='../images/DRL_2026IJNS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Enhancing Exploration and Exploitation in Tumor Treatment Through Action-Guided Deep Reinforcement Learning](https://www.worldscientific.com/doi/full/10.1142/S0129065726500206)
 **Chengrong Yu**, Zhonglian Wei, Yuncheng Shen, Yingyong Yin, Zhang Yi, Ying Song, Guangjun Li, Junjie Hu
+</div>
 
 # 📖 Educations
 - *2019.09 - 2024.12*, Sichuan University. Ph.D. in Computer Science and Technology. 
