@@ -26,31 +26,21 @@ redirect_from:
 - *2025.09*: &nbsp;🎉🎉 Enrolled in the School of Software, Yunnan University🎓. Custom makes all things easy！
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Neural Systems</div><img src='../images/DRL_2026IJNS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">International Journal of Neural Systems</div><img src='../images/DRL_2026IJNS.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1"></div>
 
 [Enhancing Exploration and Exploitation in Tumor Treatment Through Action-Guided Deep Reinforcement Learning](https://www.worldscientific.com/doi/full/10.1142/S0129065726500206)
-
 **Chengrong Yu**, Zhonglian Wei, Yuncheng Shen, Yingyong Yin, Zhang Yi, Ying Song, Guangjun Li, Junjie Hu
-
 
 # 📖 Educations
 - *2019.09 - 2024.12*, Sichuan University. Ph.D. in Computer Science and Technology. 
 - *2016.09 - 2019.12*, Kunming University of Science and Technology. M.S. in Computer System Architecture. 
 - *2012.09 - 2016.12*, Nanchang University. B.S. in Software Engineering. 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
-
 
 
 <!-- # 💬 Invited Talks
