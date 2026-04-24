@@ -32,6 +32,7 @@ redirect_from:
 [Enhancing Exploration and Exploitation in Tumor Treatment Through Action-Guided Deep Reinforcement Learning](https://www.worldscientific.com/doi/full/10.1142/S0129065726500206)
 **Chengrong Yu**, Zhonglian Wei, Yuncheng Shen, Yingyong Yin, Zhang Yi, Ying Song, Guangjun Li, Junjie Hu
 </div>
+</div>
 
 # 📖 Educations
 - *2019.09 - 2024.12*, Sichuan University. Ph.D. in Computer Science and Technology. 
