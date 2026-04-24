@@ -30,11 +30,11 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 [Enhancing Exploration and Exploitation in Tumor Treatment Through Action-Guided Deep Reinforcement Learning](https://www.worldscientific.com/doi/full/10.1142/S0129065726500206)
-****Chengrong Yu****, Zhonglian Wei, Yuncheng Shen, Yingyong Yin, Zhang Yi, Ying Song, Guangjun Li, Junjie Hu
+**Chengrong Yu**, Zhonglian Wei, Yuncheng Shen, Yingyong Yin, Zhang Yi, Ying Song, Guangjun Li, Junjie Hu
 </div>
 </div>
 
-- [1] ****Chengrong Yu****, Junjie Hu, Guangjun Li, Shenqian Zhu, Sen Bai, Zhang Yi. Segmentation for regions of interest in radiotherapy by self-supervised learning. Knowledge-Based Systems[J], 2022, 256: 109370.
+- [1] **Chengrong Yu**, Junjie Hu, Guangjun Li, Shenqian Zhu, Sen Bai, Zhang Yi. Segmentation for regions of interest in radiotherapy by self-supervised learning. Knowledge-Based Systems[J], 2022, 256: 109370.
 
 - [2] **Chengrong Yu**, Ying Song, Qiang Wang, Shengqian Zhu, Zhang Yi, Junjie Hu. Leveraging denoising diffusion probabilistic model to improve the multi-thickness CT segmentation. Neurocomputing[J], 2024, 128573.
 
